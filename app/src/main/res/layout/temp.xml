@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#212121">
+
+    <TextView
+        android:id="@+id/tv_pin"
+        android:layout_marginTop="165dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:text="Chỉ ra một cách chính xác"></TextView>
+    <TextView
+        android:layout_marginTop="60dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="30sp"
+        android:text=" ❝ D A Y  1 8  ❞"
+        android:textColor="#FFFFFF"
+        ></TextView>
+    <TextView
+        android:id="@+id/tv_con"
+        android:layout_marginTop="235dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:text="Thuận tiện"></TextView>
+    <TextView
+        android:id="@+id/tv_en"
+        android:layout_marginTop="305dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:text="Tập đoàn"></TextView>
+    <TextView
+        android:id="@+id/tv_ex"
+        android:layout_marginTop="375dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:text="Thành thạo"></TextView>
+    <TextView
+        android:id="@+id/tv_eye"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:text="Mỏi mắt"></TextView>
+    <View
+        android:layout_width="205dp"
+        android:layout_height="400dp"
+        android:layout_marginTop="120dp"
+        android:background="#212121"></View>
+
+
+    <Button
+        android:id="@+id/btn_pinPoint"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="@drawable/btn_bg"
+        android:text="Pinpoint "
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textAllCaps="false">
+    </Button>
+    <Button
+        android:id="@+id/btn_convience"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="@drawable/btn_bg"
+        android:text="Convenience "
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textAllCaps="false">
+    </Button>
+
+    <Button
+        android:id="@+id/btn_enter"
+        android:layout_marginTop="290dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="@drawable/btn_bg"
+        android:text="Enterprise  "
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textAllCaps="false">
+    </Button>
+
+
+    <Button
+        android:id="@+id/btn_exp"
+        android:layout_marginTop="360dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="@drawable/btn_bg"
+        android:text="Expertise "
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textAllCaps="false">
+    </Button>
+
+    <Button
+        android:id="@+id/btn_eye"
+        android:layout_marginTop="430dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="@drawable/btn_bg"
+        android:text="Eyestrain "
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textAllCaps="false">
+    </Button>
+
+
+
+</RelativeLayout>
