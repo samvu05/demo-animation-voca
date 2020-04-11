@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:textSize="30sp"
-        android:text=" ❝ D A Y  1 8 , T E S T G I T ❞"
+        android:text=" ❝ D A Y  1 8 , T E S T G I T jdsfsdfkjsdhfdsf❞"
         android:textColor="#FFFFFF"
         ></TextView>
     <TextView
