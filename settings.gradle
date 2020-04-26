@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='EL'
+rootProject.name='ExamAnimationVoca'
